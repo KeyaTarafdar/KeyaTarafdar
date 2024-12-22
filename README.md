@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keyatarafdar&label=Profile%20views&color=0e75b6&style=flat" alt="keyatarafdar" /> </p>
 
-- 🌱 I’m currently learning **Node JS Backend Development**
-
-- 💬 Ask me about **React, DSA**
+- 💬 Ask me about **React, DSA, Node JS**
 
 - 📫 How to reach me **keya.tarafdar2003@gmail.com**
 
